@@ -6,11 +6,11 @@ labels: ''
 assignees: ''
 ---
 
-**As a** [role]
-**I need** [functionality]
-**So that** [benefit]
+**As a** customer
+**I need** to view the product catalog
+**So that** I can choose items to buy
 
 ### Acceptance Criteria
-**Given** [context]
-**When** [action]
-**Then** [outcome]
+**Given** I am on the main page
+**When** I click on the catalog link
+**Then** I should see a list of available products
